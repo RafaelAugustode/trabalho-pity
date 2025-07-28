@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color:#e9f5ff;
+ /* overflow: hidden;
+  /*
+  font: #0f1ea8;
+  font:#0010a2;
+  */
+     font-family: 'Montserrat', sans-serif;
+}
+#colors{
+    color: #0f1ea8;
+    font: 1em sans-serif;
+}
+#colorsss{
+    color: #0f1ea8;
+    font: 1.5em sans-serif;
+}
+
+#duascoisas{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#parte_azul{
+    height: 100vh;
+    width: 7vw;
+    background-color: #70B8F2;
+}
+#icone_menu{
+       height: 7.5vh;
+    width: 4.5vw;
+    background-color:#ffff;
+ margin-left: 13%;
+ margin-top: 5%;
+  position: relative;
+    border-radius: 10px;
+}
+#texto_config{
+    width: 80vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#setegrids{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    margin-top: 7%;
+    height: 65vh;
+   margin-left: 1%;
+    
+}
+#tresgrids{
+    display: grid;
+    grid-template-columns: 1fr 1fr  1fr 1fr;
+      margin-right: 10%;
+
+}
+#seisgrid{
+     display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr ;
+    background-color: #70B8F2;
+    margin-top: 5%;
+    margin-left: 20%;
+    border: #122C8E solid;
+    border-radius: 10px;
+    width: 30vw;
+    height: 62vh;
+}
+svg{
+    height: 4vh;
+}
+#dois_grid{
+    margin-left: 3%;
+    margin-top: 5%;
+    display: flex;
+  
+ 
+}
+#pesquisa{
+    position: relative;
+    height: 5vh;
+    width: 25vw;
+    border-radius: 20px;
+    border: solid black;
+    margin-top: 7%;
+  margin-right: 15%;
+    background-color: #d3f0ff;
+}
+#pesquisa form{
+display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 0px;
+}
+#lupinha{
+    margin-top: 2%;
+    height: 4vh;
+    width: 5vw;
+}
+#input_procurar{
+    position: absolute;
+    width: 19.7vw;
+    border-radius: 10px;
+    height: 100%;
+    margin-right: 20%;
+    border: none;
+    background-color: #d3f0ff;
+}
+
+
+#pula{
+    margin-top: 2%;
+}
+#tres_grid{
+    margin-top: 2%;
+    border: #122C8E solid;
+    margin-left: 1%;
+    width: 70vw;
+    border-radius: 10px;
+    background-color: #70B8F2;
+display: grid;
+grid-template-columns: 1fr 1fr ;
+height: 18vh;
+}
+
+#perfil{
+    height: 13vh;
+    margin-bottom: 25%;
+}
+#tres{
+    margin-left: 2%;
+}
+#porta{
+    height: 80vh;
+    width: 6vw;
+    background-color:#70B8F2;
+   
+}
+#circular{
+    width: 28vw;
+    border: solid #122C8E;
+     background-color: #72c0ff81;
+     border-radius: 20px;
+     height: 6vh;
+    margin-right: 10%;
+    cursor: pointer;
+      
+         
+}
+#pdentrobuton{
+   font-family: 'Montserrat', sans-serif;
+   margin-bottom: 90%;
+}
+#esquerda{
+    margin-left: 7%;
+    color: #0010a2;
+}
+#esquerdas{
+      margin-left: 25%;
+      color: #0f1ea8;;
+}
+#esq{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+#bordar{
+    border: #122C8E solid 1px;
+}
+#linha{
+   height: 5vh;
+   
+}
+#portabranca{
+    height: 10vh;
+    margin-top: 500%;
+    margin-left: 13%;
+    background-color: white;
+    width: 4.5vw;
+    position: relative;
+    border-radius: 10px;
+}
+#centro{
+position: absolute;
+margin-left: 25%;
+margin-top: 25%;
+
+}
+#centros{
+position: absolute;
+margin-left: 30%;
+margin-top: 20%;
+
+}
