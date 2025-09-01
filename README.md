@@ -9,6 +9,7 @@
 - Baixe o nosso banco de dados SQL(BDtrabai.sql);
   <!-- Perdão pelo nome do arquivo --!>
 - MySql Workbench
+- Baixar a pasta DataVault
 
 ### 2. Instalação
 # Clone o repositório
