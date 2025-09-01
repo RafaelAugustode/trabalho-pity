@@ -47,4 +47,4 @@ Abra o xampp e coloque o MySQl e o Apache para Iniciar.
 7. Ter avaliações mensais para feedbacks.[X]
 8. Ter menus intuitivos para o usuário poder manusear melhor o site[X].
 9. O sistema deve oferecer suporte a múltiplos idiomas.[X]
-10. Ter uma responsividade fluida em aparelhos diversos[]
+10. Ter uma responsividade fluida em aparelhos diversos[X]
