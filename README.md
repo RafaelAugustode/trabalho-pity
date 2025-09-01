@@ -25,6 +25,7 @@ Abra o xampp e coloque o MySQl e o Apache para Iniciar.
 - Usuário padrão: root  
 - Senha padrão: "" (vazia mesmo)
 
+
  - Integrantes do Grupo:
 ● Cauã Zanete Souza – 12303305
 ● Gabriel Cardoso Alvares de Oliveira – 12300411
@@ -32,7 +33,10 @@ Abra o xampp e coloque o MySQl e o Apache para Iniciar.
 ● Pietro Barros Martins da Rocha – 12303313
 ● Rafael Augusto de Lima Gonçalves – 12300705
 ● Samuel Busatto Ribas – 12300918
+
  - Turma: 3B1
+
+
 - Dez funcionalidades:
 - 1. O sistema deve permitir o cadastro de usuários.[]
 2. O usuário deve poder redefinir a senha.[]
