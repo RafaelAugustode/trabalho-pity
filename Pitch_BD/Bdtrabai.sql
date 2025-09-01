@@ -1,3 +1,5 @@
+create database pitch;
+use pitch;
 create table usuario(
 id int not null auto_increment primary key,
 nome_cliente varchar(45) not null,
@@ -9,6 +11,7 @@ create table feedback(
 id int not null auto_increment primary key,
 mensagem varchar(45) not null,
 selecionar_nivel varchar(45) not null,
+data_criacao datetime not null,
 id_usuario int not null,
 foreign key (id_usuario) references usuario(id)
 );
@@ -32,9 +35,9 @@ id_usuario int not null,
 foreign key (id_usuario) references usuario(id)
 );
 
-create table file(
+create table files(
 id int  not null auto_increment primary key,
-arquivo_file bool not null auto_increment,
+arquivo_file bool not null ,
 nome_arquivo varchar(45) not null,
 favorito bool not null,
 compartilhado bool not null,
@@ -44,4 +47,4 @@ tamanho_arquivo bigint not null,
 nome_pasta varchar(45) not null,
 id_usuario int not null,
 foreign key (id_usuario) references usuario(id)
-)
+);
