@@ -1,5 +1,30 @@
 - Nome do projeto: DataVault
 
+## Como Executar o Projeto
+
+### 1. Pré-requisitos
+- C#/Asp Net;
+- Visual Studio(roxo) só para rodar;
+- Tenha um xampp ou wamp para rodar o apache e o mysql;
+- Baixe o nosso banco de dados SQL;
+- MySql Workbench
+
+### 2. Instalação
+# Clone o repositório
+git clone https://github.com/usuario/repositorio.git
+# Acesse a pasta do projeto
+cd DataVault
+```
+### 3. Execução
+Para executar da melhor forma depois de ter baixado o projeto;
+Abra-o no Visual Studio(roxo);
+Abra no MySqlWorkbench o banco de dados baixado;
+Abra o xampp e coloque o MySQl e o Apache para Iniciar.
+### 4. Acesso
+- URL local: http://localhost:3000  
+- Usuário padrão: root  
+- Senha padrão: "" (vazia mesmo)
+
  - Integrantes do Grupo:
 ● Cauã Zanete Souza – 12303305
 ● Gabriel Cardoso Alvares de Oliveira – 12300411
@@ -8,3 +33,14 @@
 ● Rafael Augusto de Lima Gonçalves – 12300705
 ● Samuel Busatto Ribas – 12300918
  - Turma: 3B1
+- Dez funcionalidades:
+- 1. O sistema deve permitir o cadastro de usuários.[]
+2. O usuário deve poder redefinir a senha.[]
+3. O usuário deve poder personalizar as configurações da interface.[X]
+4. O sistema deve ter um sistema de busca eficiente de arquivos por meio de seus nomes e eles serão ordenados pelo tipo de arquivos que a pessoa escolher como preferencial.[]
+5. Uma mesma empresa ter mais de uma perfil no aplicativo.[]
+6. Pesquisas por palavra chave de arquivos.[]
+7. Ter avaliações mensais para feedbacks.[X]
+8. Ter menus intuitivos para o usuário poder manusear melhor o site[X].
+9. O sistema deve oferecer suporte a múltiplos idiomas.[X]
+10. Ter uma responsividade fluida em aparelhos diversos[]
