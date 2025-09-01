@@ -6,7 +6,8 @@
 - C#/Asp Net;
 - Visual Studio(roxo) só para rodar;
 - Tenha um xampp ou wamp para rodar o apache e o mysql;
-- Baixe o nosso banco de dados SQL;
+- Baixe o nosso banco de dados SQL(BDtrabai.sql);
+  <!-- Perdão pelo nome do arquivo --!>
 - MySql Workbench
 
 ### 2. Instalação
