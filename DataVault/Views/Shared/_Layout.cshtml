@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DataVault</title>
+
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <ul class="List-Header">
+            <img src="~/imagens/logo.png" alt="Logo" class="logo-header">
+            <a href="#Home">
+            <li class="Texto_Header">Home</li></a>
+            <a href="#Quem-Somos">
+            <li class="Texto_Header">Sobre Nós</li></a>
+            <a href="#Tutorial">
+            <li class="Texto_Header">Tutorial</li></a>
+            <li>
+                <div class="Container-Cadastro">
+                    <i class="fa-solid fa-circle-user" onclick="icon()" id="Icone"></i>
+                    <div class="Botoes-Header">
+                        <button class="Btn-Cadastro" onclick="window.location.href='/Home/PagCadastro'">Cadastro</button>
+                        <button class="Btn-Login" onclick="window.location.href='/Home/PagLogin'">Login</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </header>
+
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+
+    <footer id="footer">
+        <span> © | DataVault , localização em Belo Horizonte , Minas Gerais , BR. </span>
+
+        <ul class="Titulo-List-1">
+            <li>Contatos</li>
+            <li>Email:12300411@aluno.cotemig.com.br</li>
+            <li>Email:12300918@aluno.cotemig.com.br</li>
+        </ul>
+
+        <ul class="Titulo-List-2">
+            <li>Contatos</li>
+            <li>Email:12300705@aluno.cotemig.com.br</li>
+            <li>Email:12300713@aluno.cotemig.com.br</li>
+        </ul>
+
+        <ul class="Titulo-List-3">
+            <li>Contatos </li>
+            <li>Email:12303305@aluno.cotemig.com.br</li>
+            <li>Email:12303313@aluno.cotemig.com.br</li>
+        </ul>
+    </footer>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>AOS.init();</script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

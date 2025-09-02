@@ -1,0 +1,80 @@
+﻿@model DataVault.Models.UsuarioRedefinicao
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esqueci minha senha</title>
+
+    <link rel="stylesheet" href="~/css/esqueci.css" asp-append-version="true">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="resgatar">
+        <div class="alinharh1">
+            <h1>Esqueceu sua senha?<br>Digite seu e-mail abaixo e enviaremos um código para redefinição.</h1>
+        </div>
+
+        @if (TempData["Erro"] != null)
+        {
+            <div class="mensagem erro">
+                @TempData["Erro"]
+            </div>
+        }
+        @if (TempData["Mensagem"] != null)
+        {
+            <div class="mensagem sucesso">
+                @TempData["Mensagem"]
+            </div>
+        }
+
+        <!-- Formulário para solicitar código -->
+        <form method="post" asp-controller="UsuarioRedefinicao" asp-action="SolicitarCodigo" class="formatacao-form">
+            <p>E-mail:</p>
+            <input asp-for="Email" type="email" placeholder="Digite seu E-mail:" required>
+            <button type="submit" class="btn">Solicitar Código</button>
+        </form>
+
+        <hr />
+
+        <!-- Formulário para redefinir senha -->
+        <form method="post" asp-controller="UsuarioRedefinicao" asp-action="RedefinirSenha" class="formatacao-form">
+            <p>E-mail:</p>
+            <input asp-for="Email" type="email" placeholder="Digite seu E-mail:" required>
+
+            <p>Código:</p>
+            <input asp-for="Codigo" type="text" placeholder="Digite o Código:" required>
+
+            <p>Nova Senha:</p>
+            <input asp-for="NovaSenha" type="password" placeholder="Digite a nova senha:" required>
+
+            <p>Confirmar Senha:</p>
+            <input asp-for="ConfirmarSenha" type="password" placeholder="Confirme a nova senha:" required>
+
+            <button type="submit" class="btn">Redefinir Senha</button>
+        </form>
+
+        <div class="Formatacao-Final">
+            <p>Não recebeu o código?</p>
+            <a href="#" class="Novamente" onclick="window.location.reload();">Enviar novamente</a>
+        </div>
+    </div>
+
+    <!-- Voltar para Cadastro -->
+    <button onclick="window.location.href='@Url.Action("PagCadastro","Home")'" class="btnVoltar">
+        <i class="fa-solid fa-door-open" id="Saida"></i>
+    </button>
+
+    <img src="~/Imagens/logo-removebg-preview.png" alt="Logo" class="logo">
+
+    <div class="imagens">
+        <img src="~/Imagens/image-removebg-preview.png" alt="Ilustração" class="imagemSite">
+    </div>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>
