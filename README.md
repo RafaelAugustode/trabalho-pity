@@ -22,7 +22,7 @@ Para executar da melhor forma depois de ter baixado o projeto;
 Abra-o no Visual Studio(roxo);
 Abra no MySqlWorkbench o banco de dados baixado;
 Abra o xampp e coloque o MySQl e o Apache para Iniciar.
-Rode o programa no Visual Studio(roxo) clicando e=na setinha verde, com o http selecionado.
+Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http selecionado.
 ### 4. Acesso
 - URL local: http://localhost:3306  
 - Usuário padrão: root  
