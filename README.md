@@ -1,6 +1,6 @@
 - Nome do projeto: DataVault
 - 
-Obs: a pasta DataVault que contém a aplicação do Visual Studio(roxo)(mvc);
+Obs: a pasta DataVault que contém a aplicação do Visual Studio(roxo)(mvc), na parte do formulário de feedback talvez precise da minha autorizção para enviar o formulário então na hora talvez de uma mensagem tipo check your email, para mim autorizar o ativamento, ai quando o senhor for corrigir pode me avisar?;
 ## Como Executar o Projeto
 
 ### 1. Pré-requisitos
