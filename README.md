@@ -21,6 +21,10 @@ cd DataVault
 ### 3. Execução
 Para executar da melhor forma depois de ter baixado o projeto;
 Abra-o no Visual Studio(roxo);
+Com o Visual Studio(roxo) aberto clique em ferramentas, depois em gerenciar pacotes Nuget,
+depois em gerenciar pacotes do Nuget para Solução, verifique se o pacote Microsoft.EntityFrameworkCore.Tools está instalado
+e também o pacote Pomelo.EntityFrameworkCore.MySql está instalado, se não estiver vá em procurar
+e coloque na barra de pesquisas esse nomes em específico e instale eles.
 Abra no MySqlWorkbench o banco de dados baixado;
 Abra o xampp e coloque o MySQl e o Apache para Iniciar.
 Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http selecionado.
