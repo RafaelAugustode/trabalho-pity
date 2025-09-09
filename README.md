@@ -1,8 +1,5 @@
 ### - Nome do projeto: DataVault
-- 
 Obs: a pasta DataVault que contém a aplicação do Visual Studio(roxo)(mvc), na parte do formulário de feedback talvez precise da minha autorizção para enviar o formulário então na hora talvez de uma mensagem tipo check your email, para mim autorizar o ativamento, ai quando o senhor for corrigir pode me avisar?;
-## Como Executar o Projeto
-
 ### 1. Pré-requisitos
 - C#/Asp Net;
 - Visual Studio(roxo) só para rodar;
@@ -17,7 +14,7 @@ Obs: a pasta DataVault que contém a aplicação do Visual Studio(roxo)(mvc), na
 git clone https://github.com/usuario/repositorio.git
 # Acesse a pasta do projeto
 cd DataVault
-### 3. Execução
+### 3. Como Executar
 Para executar da melhor forma depois de ter baixado o projeto;
 Abra-o no Visual Studio(roxo);
 Com o Visual Studio(roxo) aberto clique em ferramentas, depois em gerenciar pacotes Nuget,
