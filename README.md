@@ -1,4 +1,4 @@
-- Nome do projeto: DataVault
+### - Nome do projeto: DataVault
 - 
 Obs: a pasta DataVault que contém a aplicação do Visual Studio(roxo)(mvc), na parte do formulário de feedback talvez precise da minha autorizção para enviar o formulário então na hora talvez de uma mensagem tipo check your email, para mim autorizar o ativamento, ai quando o senhor for corrigir pode me avisar?;
 ## Como Executar o Projeto
@@ -34,7 +34,7 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
 - Senha padrão: "" (vazia mesmo)
 
 
- - Integrantes do Grupo:
+### - Integrantes do Grupo:
 ● Cauã Zanete Souza – 12303305
 ● Gabriel Cardoso Alvares de Oliveira – 12300411
 ● Gabriel Henrique de Lima Gonçalves– 12300713
@@ -45,7 +45,7 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
  - Turma: 3B1
 
 
-- Dez funcionalidades:
+### - Dez funcionalidades:
 - 1. O sistema deve permitir o cadastro de usuários.[X]
 2. O usuário deve poder redefinir a senha.[]
 3. O usuário deve poder personalizar as configurações da interface.[X]
