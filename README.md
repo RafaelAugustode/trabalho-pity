@@ -42,14 +42,14 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
  - Turma: 3B1
 
 
-### - Dez funcionalidades:
-- 1. O sistema deve permitir o cadastro de usuários.[X]
+### - Vinte funcionalidades:
+- 1. O sistema deve permitir o cadastro de usuários.[✔]
 2. O usuário deve poder redefinir a senha.[]
-3. O usuário deve poder personalizar as configurações da interface.[X]
+3. O usuário deve poder personalizar as configurações da interface.[✔]
 4. O sistema deve ter um sistema de busca eficiente de arquivos por meio de seus nomes e eles serão ordenados pelo tipo de arquivos que a pessoa escolher como preferencial.[]
-5. Uma mesma empresa ter mais de uma perfil no aplicativo.[X]
+5. Uma mesma empresa ter mais de uma perfil no aplicativo.[✔]
 6. Pesquisas por palavra chave de arquivos.[]
-7. Ter avaliações mensais para feedbacks.[X]
-8. Ter menus intuitivos para o usuário poder manusear melhor o site[X].
-9. O sistema deve oferecer suporte a múltiplos idiomas.[X]
-10. Ter uma responsividade fluida em aparelhos diversos[X]
+7. Ter avaliações mensais para feedbacks.[✔]
+8. Ter menus intuitivos para o usuário poder manusear melhor o site[✔].
+9. O sistema deve oferecer suporte a múltiplos idiomas.[✔]
+10. Ter uma responsividade fluida em aparelhos diversos[✔]
