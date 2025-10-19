@@ -2,6 +2,7 @@
 
 ### - Obs: 
 a pasta DataVault que contém a aplicação do Visual Studio(roxo)(mvc), na parte do formulário de feedback talvez precise da minha autorizção para enviar o formulário então na hora talvez de uma mensagem tipo check your email, para mim autorizar o ativamento, ai quando o senhor for corrigir pode me avisar?;
+Precisa do Xampp e do nosso banco de dados para funcionar.
 
 ### - Descrição 
 O projeto datavault é um gerenciador de arquivos com uma IA de fundo para criação de pastas de acordo com o conteúdo do arquivo, por exemplo se temos os arquivos Estados Unidos na segunda Guerra Mundial  e Bombas Atomicas, ela cria uma pasta chamada  Segunda Guerra Mundial. Sua finalidade é orgarnizar os arquivos das pessoas, organizando-os com pastas sobre seus assuntos, além de ter uma IA auxiliando. Principais funcionalidades são o carregamento e exibição de arquivos dentro das pastas criadas além da IA podendo fazer indicações e ajudas.
@@ -52,9 +53,13 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
 
     projeto/
     ├── DataVault/               # Código-fonte principal
-    ├── docs/              # Documentação
-    ├── tests/             # Testes automatizados
-    ├── README.md          # Arquivo de descrição do projeto
+    ├── Diagrama_Classes/        # Todos os diagramas de classes
+    ├── Lista_Requisitos/        # Lista de requisitos
+    ├── PDFS/                    # Toda a documentação em PDF
+    ├── PITCH_BD/                # Tudo relacionado ao banco de dados do Pitch
+    ├── Site/                    # Todo o FrontEnd utilizado no site
+    ├── tentativa escola -certissiomo/test1 -Copia/   # Testes do front end e do github
+    ├── README.md                # Arquivo de descrição do projeto
   
  
 ## Design Patterns Aplicados na Camada de Domínio
