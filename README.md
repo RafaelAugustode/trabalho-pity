@@ -1,5 +1,11 @@
 ### - Nome do projeto: DataVault
-Obs: a pasta DataVault que contém a aplicação do Visual Studio(roxo)(mvc), na parte do formulário de feedback talvez precise da minha autorizção para enviar o formulário então na hora talvez de uma mensagem tipo check your email, para mim autorizar o ativamento, ai quando o senhor for corrigir pode me avisar?;
+
+### - Obs: 
+a pasta DataVault que contém a aplicação do Visual Studio(roxo)(mvc), na parte do formulário de feedback talvez precise da minha autorizção para enviar o formulário então na hora talvez de uma mensagem tipo check your email, para mim autorizar o ativamento, ai quando o senhor for corrigir pode me avisar?;
+
+### - Descrição 
+O projeto datavault é um gerenciador de arquivos com uma IA de fundo para criação de pastas de acordo com o conteúdo do arquivo, por exemplo se temos os arquivos Estados Unidos na segunda Guerra Mundial  e Bombas Atomicas, ela cria uma pasta chamada  Segunda Guerra Mundial. Sua finalidade é orgarnizar os arquivos das pessoas, organizando-os com pastas sobre seus assuntos, além de ter uma IA auxiliando. Principais funcionalidades são o carregamento e exibição de arquivos dentro das pastas criadas além da IA podendo fazer indicações e ajudas.
+
 ### 1. Pré-requisitos
 - C#/Asp Net;
 - Visual Studio(roxo) só para rodar;
@@ -14,6 +20,7 @@ Obs: a pasta DataVault que contém a aplicação do Visual Studio(roxo)(mvc), na
 git clone https://github.com/usuario/repositorio.git
 # Acesse a pasta do projeto
 cd DataVault
+
 ### 3. Como Executar
 Para executar da melhor forma depois de ter baixado o projeto;
 Abra-o no Visual Studio(roxo);
@@ -40,8 +47,23 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
 ● Samuel Busatto Ribas – 12300918
 
  - Turma: 3B1
+ - 
+## Design Patterns Aplicados na Camada de Domínio
+### 🔹 Singleton
 
-
+-   **Uso**: Conexão única ao banco de dados.\
+-   **Justificativa**: Evita múltiplas instâncias e consumo
+    desnecessário de recursos.
+### 🔹 Composite
+-   **Uso**: Criação de pastas a partir de arquivos que não se encaixam em nenhuma pasta construida .\
+-   **Justificativa**: Evita repetição de código além de cria uma melhor segurança e deixa mais eficaz a criação de pastas..
+### 🔹 Decorator
+-   **Uso**: Filtrar os arquivos das pessoas.\
+-   **Justificativa**: Deixa a separação por tipo de arquivo mais fácil além de evitar repetição de código tendo um código geral que le o que foi selecionado e organiza assim.
+### 🔹 Strategy
+-   **Uso**: Leitura de conteúdo de arquivos.\
+-   **Justificativa**: Ajuda na leitura de arquivos da IA e também separa a leitura de cada tipo de arquivo.
+  
 ### - Vinte funcionalidades:
 - 1. O sistema deve permitir o cadastro de usuários.[✔]
 2. O usuário deve poder redefinir a senha.[]
