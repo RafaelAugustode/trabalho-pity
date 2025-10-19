@@ -47,10 +47,18 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
 ● Samuel Busatto Ribas – 12300918
 
  - Turma: 3B1
- - 
+
+## Estrutura de Diretórios
+
+    projeto/
+    ├── DataVault/               # Código-fonte principal
+    ├── docs/              # Documentação
+    ├── tests/             # Testes automatizados
+    ├── README.md          # Arquivo de descrição do projeto
+  
+ 
 ## Design Patterns Aplicados na Camada de Domínio
 ### 🔹 Singleton
-
 -   **Uso**: Conexão única ao banco de dados.\
 -   **Justificativa**: Evita múltiplas instâncias e consumo
     desnecessário de recursos.
