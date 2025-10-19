@@ -88,3 +88,13 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
 8. Ter menus intuitivos para o usuário poder manusear melhor o site[✔].
 9. O sistema deve oferecer suporte a múltiplos idiomas.[✔]
 10. Ter uma responsividade fluida em aparelhos diversos[✔]
+11. Busca Inteligente com Compreensão de Contexto[]
+12. Organização Automática com IA[]
+13. Resumo e Análise de Conteúdo[]
+14. Assistente Proativo[]
+15. Segurança Inteligente[]
+16. Reconhecimento de Imagens e Voz[]
+17. Análises e Estatísticas[]
+18. Chat com Seus Arquivos[]
+19. Automação com Regras Inteligentes[]
+20. Aprendizado Contínuo e Personalização Adaptativa[]
