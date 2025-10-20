@@ -104,4 +104,4 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
 17. Sugestão de Tags ou Palavras-Chave[]
 18. Detecção de Conteúdo Sensível ou Confidencial[]
 19. Medição de Espaço Utilizado (em KB/MB)[]
-20.Resumo de Conteúdo dos arquivos enviados[]
+20. Resumo de Conteúdo dos arquivos enviados[]
