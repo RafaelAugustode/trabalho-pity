@@ -68,7 +68,6 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
     ├── Site/                    # Todo o FrontEnd utilizado no site
     ├── tentativa escola -certissiomo/test1 -Copia/   # Testes do front end e do github
     ├── README.md                # Arquivo de descrição do projeto
-  
  
 ## Design Patterns Aplicados na Camada de Domínio
 ### 🔹 Singleton
