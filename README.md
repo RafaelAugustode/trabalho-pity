@@ -15,6 +15,14 @@ O projeto datavault é um gerenciador de arquivos com uma IA de fundo para cria�
   <!-- Perdão pelo nome do arquivo --!>
 - MySql Workbench
 - Baixar a pasta DataVault
+- ## Funcionalidade com IA Local
+Este projeto inclui uma IA que organiza arquivos automaticamente com base no conteúdo.
+### Para testar a IA:
+1. Instale o Ollama: https://ollama.com/
+2. Execute no terminal: `ollama pull phi3`
+3. Rode a aplicação — a IA funcionará automaticamente ao fazer upload.
+
+> Nota: A IA roda 100% localmente, sem envio de dados à nuvem.
 
 ### 2. Instalação
 # Clone o repositório
