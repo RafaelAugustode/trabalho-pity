@@ -101,7 +101,7 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
 14. Os arquivos favoritados estão corretamente exibidos[]
 15. Os arquivos compartilhados estão corretamente exibidos[]
 16. Os arquivos movidos para a lixeira estão exibidos[]
-17. Sugestão de Tags ou Palavras-Chave[]
+17. Sugestão de Tags ou Palavras-Chave[✔]
 18. Detecção de Conteúdo Sensível ou Confidencial[]
 19. Medição de Espaço Utilizado (em KB/MB)[]
 20. Resumo de Conteúdo dos arquivos enviados[✔]
