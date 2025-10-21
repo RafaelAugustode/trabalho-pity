@@ -1,0 +1,294 @@
+﻿body {
+    background-color: #000000;
+}
+
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formatacao-form {
+    gap: 1vh;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+}
+
+.fundo {
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: 10% 90%;
+    background-image: linear-gradient( to right, #DEFBFF 50%, #122c8e 50%);
+}
+
+.glass {
+    grid-column-start: 2;
+    width: 100%;
+    text-shadow: 1px 1px black;
+}
+
+.alinharbtn {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    flex-direction: row;
+    grid-column-start: 2;
+    grid-row-start: 1;
+    gap: 5%;
+}
+
+    .alinharbtn button {
+        height: 45%;
+        width: 15%;
+        border-radius: 10px;
+        border: 1px solid #ffffff;
+        background-color: #DEFBFF;
+        font-size: 1.1rem;
+    }
+
+.a {
+    color: #000000;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.titles {
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    text-align: center;
+    height: 20vh;
+    color: #DEFBFF;
+    gap: 2vh;
+}
+
+    .titles h1 {
+        font-size: 2.5rem;
+    }
+
+    .titles h3 {
+        font-size: 1.8rem;
+    }
+
+.formatacao-form input {
+    display: flex;
+    align-self: center;
+    width: 60%;
+    height: 25px;
+    padding-left: 1%;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    color: #DEFBFF;
+    outline: none;
+    box-shadow: rgb(255, 255, 255) 0px 0.8px 0px 0px;
+}
+
+    .formatacao-form input:focus {
+        transition: .5s ease-out;
+        background: transparent;
+        background-color: rgb(11, 66, 245, 0.5);
+        border-radius: 5px;
+        color: #ffffff;
+    }
+
+.formatacao-form p {
+    margin-left: 20%;
+    font-size: 1.3rem;
+    color: #DEFBFF;
+}
+
+.btnenviar {
+    width: 25%;
+    height: 45px;
+    border-radius: 10px;
+    border: #ffffff solid 1px;
+    background-color: #f4f4f2;
+    color: #122c8e;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.alinharfinal {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    gap: 1vh;
+}
+
+    .alinharfinal span {
+        color: #DEFBFF;
+        font-size: 1.3rem;
+    }
+
+    .alinharfinal a {
+        font-size: 1.5rem;
+        text-decoration: none;
+        color: #DEFBFF;
+        font-weight: bold;
+    }
+
+.ladoimg {
+    grid-column: 1;
+    grid-row: 2;
+    display: grid;
+    grid-template-rows: repeat(3, 33%);
+}
+
+.formatacaop {
+    grid-row: 3/4;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    color: #0b42f5;
+}
+
+    .formatacaop p {
+        font-size: 2.3em;
+        font-weight: bold;
+    }
+
+.ladoimg .img {
+    width: 50%;
+    grid-row: 1 / 3;
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+.logo {
+    grid-column: 1;
+    grid-row: 1;
+    width: 15%;
+    align-self: center;
+    margin-left: 5%;
+}
+
+.btnhome, .btnlogin {
+    width: 10em;
+    height: 5vh;
+    border: 2px solid #DEFBFF;
+    border-radius: 10px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    position: relative;
+}
+
+.btnlogin {
+    margin-right: 5%;
+}
+
+    .btnhome a, .btnlogin a {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+
+.imagem-site {
+    width: 55%;
+    grid-row: 1 / 3;
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+@media (max-width:768px) and (min-width:320px) {
+    .fundo {
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-rows: 10% 90%;
+        background-image: linear-gradient( to right,#122c8e 100%);
+    }
+
+    .ladoimg {
+        display: none;
+    }
+
+    .alinharbtn {
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        flex-direction: row;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        gap: 5%;
+    }
+
+    .formatacao-form {
+        display: grid;
+    }
+
+    .glass {
+        grid-column: 1;
+    }
+
+    .formatacao-form input {
+        display: flex;
+        align-self: center;
+        width: 80%;
+        height: 25px;
+        border: none;
+        justify-self: center;
+        background-color: rgba(0, 0, 0, 0);
+        color: #DEFBFF;
+        outline: none;
+        box-shadow: rgb(255, 255, 255) 0px 0.8px 0px 0px;
+    }
+
+    .formatacao-form p {
+        margin-left: 10%;
+        font-size: 1.3rem;
+        color: #DEFBFF;
+    }
+
+    .alinharbtn button {
+        height: 45%;
+        width: 25%;
+        border-radius: 10px;
+        border: 1px solid #ffffff;
+        background-color: #DEFBFF;
+        font-size: 1.1rem;
+    }
+
+    .btnenviar {
+        width: 22%;
+        height: 45px;
+        border-radius: 10px;
+        border: #ffffff solid 1px;
+        background-color: #f4f4f2;
+        color: #122c8e;
+        font-weight: bold;
+        font-size: 1.2rem;
+    }
+
+    .formatacao-form input:focus {
+        transition: .5s ease-out;
+        background: transparent;
+        background-color: #122d8e83;
+        border-radius: 5px;
+        color: #ffffff;
+        background-color: rgb(5, 70, 246, 0.5);
+    }
+}
+
+
+
+/*.btnhome:hover , .btnlogin:hover  {
+background-color: #122c8e;
+
+  }
+  .btnhome:hover .a, .btnlogin:hover .a{
+color: #ffffff;  
+
+      }*/
