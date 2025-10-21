@@ -1,0 +1,545 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Pitch\\DataVault\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DataVault.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DataVault.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\css\\Principal.css",
+      "PackagePath": "staticwebassets\\css\\Principal.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\css\\cadastro.css",
+      "PackagePath": "staticwebassets\\css\\cadastro.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\css\\config.css",
+      "PackagePath": "staticwebassets\\css\\config.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\css\\esqueci.css",
+      "PackagePath": "staticwebassets\\css\\esqueci.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\43e2a179c7acf23bdae66e4461a64b94.gif",
+      "PackagePath": "staticwebassets\\imagens\\43e2a179c7acf23bdae66e4461a64b94.gif"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\6917147_MotionGraphics_MotionGraphic_3840x2160-ezgif.com-video-to-gif-converter.gif",
+      "PackagePath": "staticwebassets\\imagens\\6917147_MotionGraphics_MotionGraphic_3840x2160-ezgif.com-video-to-gif-converter.gif"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\Cyber Security.gif",
+      "PackagePath": "staticwebassets\\imagens\\Cyber Security.gif"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\com-video-to-gif-converter-unscreen.gif",
+      "PackagePath": "staticwebassets\\imagens\\com-video-to-gif-converter-unscreen.gif"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\day-7-give-me-your-favorite-quote-from-the-character-v0-hlttng4csmza1.gif",
+      "PackagePath": "staticwebassets\\imagens\\day-7-give-me-your-favorite-quote-from-the-character-v0-hlttng4csmza1.gif"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\developers-gif-showcase-VEED-_online-video-cutter.com_.gif",
+      "PackagePath": "staticwebassets\\imagens\\developers-gif-showcase-VEED-_online-video-cutter.com_.gif"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\developers-gif-showcase-ezgif.com-gif-maker.gif",
+      "PackagePath": "staticwebassets\\imagens\\developers-gif-showcase-ezgif.com-gif-maker.gif"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\developers-gif-showcase.gif",
+      "PackagePath": "staticwebassets\\imagens\\developers-gif-showcase.gif"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\download.jpg",
+      "PackagePath": "staticwebassets\\imagens\\download.jpg"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\image-removebg-preview.png",
+      "PackagePath": "staticwebassets\\imagens\\image-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\image.png",
+      "PackagePath": "staticwebassets\\imagens\\image.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\imagem.cadasttro.png",
+      "PackagePath": "staticwebassets\\imagens\\imagem.cadasttro.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\logo-removebg-preview.png",
+      "PackagePath": "staticwebassets\\imagens\\logo-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\logo.png",
+      "PackagePath": "staticwebassets\\imagens\\logo.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\parte1.png",
+      "PackagePath": "staticwebassets\\imagens\\parte1.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\parte2.png",
+      "PackagePath": "staticwebassets\\imagens\\parte2.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\picmix.com_10800310.gif",
+      "PackagePath": "staticwebassets\\imagens\\picmix.com_10800310.gif"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\seguranca.gif",
+      "PackagePath": "staticwebassets\\imagens\\seguranca.gif"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\imagens\\simbolo-de-banco-de-dados-e-nuvem-de-armazenamento-isolado-na-ilustracao-3d-de-fundo-branco_771335-19009-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\imagens\\simbolo-de-banco-de-dados-e-nuvem-de-armazenamento-isolado-na-ilustracao-3d-de-fundo-branco_771335-19009-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\js\\Principal.js",
+      "PackagePath": "staticwebassets\\js\\Principal.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\11\\873555-front-end-vs-back-end.png",
+      "PackagePath": "staticwebassets\\uploads\\11\\873555-front-end-vs-back-end.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\11\\9377230-computador-com-tela-de-codigo-binario-gratis-vetor.jpg",
+      "PackagePath": "staticwebassets\\uploads\\11\\9377230-computador-com-tela-de-codigo-binario-gratis-vetor.jpg"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\11\\Foto_Vinculo.pdf",
+      "PackagePath": "staticwebassets\\uploads\\11\\Foto_Vinculo.pdf"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\11\\atv_gabri.sql",
+      "PackagePath": "staticwebassets\\uploads\\11\\atv_gabri.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\11\\download (8).jpg",
+      "PackagePath": "staticwebassets\\uploads\\11\\download (8).jpg"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\11\\elite_photo.png",
+      "PackagePath": "staticwebassets\\uploads\\11\\elite_photo.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\873555-front-end-vs-back-end.png",
+      "PackagePath": "staticwebassets\\uploads\\12\\873555-front-end-vs-back-end.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\Aula 27 do 03.sql",
+      "PackagePath": "staticwebassets\\uploads\\12\\Aula 27 do 03.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\Design sem nome.png",
+      "PackagePath": "staticwebassets\\uploads\\12\\Design sem nome.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\Entregue.sql",
+      "PackagePath": "staticwebassets\\uploads\\12\\Entregue.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\ExploradorAlfa.png",
+      "PackagePath": "staticwebassets\\uploads\\12\\ExploradorAlfa.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\ExploradorAlfa.xml",
+      "PackagePath": "staticwebassets\\uploads\\12\\ExploradorAlfa.xml"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\ExploradorAlfa_logico.png",
+      "PackagePath": "staticwebassets\\uploads\\12\\ExploradorAlfa_logico.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\Explorador_Alfa.sql",
+      "PackagePath": "staticwebassets\\uploads\\12\\Explorador_Alfa.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\atv_1_ponto.sql",
+      "PackagePath": "staticwebassets\\uploads\\12\\atv_1_ponto.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\atv_gabri.sql",
+      "PackagePath": "staticwebassets\\uploads\\12\\atv_gabri.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\cte.sql",
+      "PackagePath": "staticwebassets\\uploads\\12\\cte.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\procedure_sacola.sql",
+      "PackagePath": "staticwebassets\\uploads\\12\\procedure_sacola.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\quemsoueupc.png",
+      "PackagePath": "staticwebassets\\uploads\\12\\quemsoueupc.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\12\\repeat.sql",
+      "PackagePath": "staticwebassets\\uploads\\12\\repeat.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\Apresentação (35).pptx",
+      "PackagePath": "staticwebassets\\uploads\\1\\Apresentação (35).pptx"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\Captura de tela 2025-03-11 153303.png",
+      "PackagePath": "staticwebassets\\uploads\\1\\Captura de tela 2025-03-11 153303.png"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\Entregue.sql",
+      "PackagePath": "staticwebassets\\uploads\\1\\Entregue.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\Foto_Vinculo.pdf",
+      "PackagePath": "staticwebassets\\uploads\\1\\Foto_Vinculo.pdf"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\Imagem do WhatsApp de 2024-08-30 à(s) 17.01.08_5a424d46 - Copia.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1\\Imagem do WhatsApp de 2024-08-30 à(s) 17.01.08_5a424d46 - Copia.jpg"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\TU_CONSEGUE_MANO.sql",
+      "PackagePath": "staticwebassets\\uploads\\1\\TU_CONSEGUE_MANO.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\admpetshop.sql",
+      "PackagePath": "staticwebassets\\uploads\\1\\admpetshop.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\apuracao_eleitora.sql",
+      "PackagePath": "staticwebassets\\uploads\\1\\apuracao_eleitora.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\atv_26do09.sql",
+      "PackagePath": "staticwebassets\\uploads\\1\\atv_26do09.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\bd_inventario.sql",
+      "PackagePath": "staticwebassets\\uploads\\1\\bd_inventario.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\bd_simulado.sql",
+      "PackagePath": "staticwebassets\\uploads\\1\\bd_simulado.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\pag59.sql",
+      "PackagePath": "staticwebassets\\uploads\\1\\pag59.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\1\\procedure_sacola.sql",
+      "PackagePath": "staticwebassets\\uploads\\1\\procedure_sacola.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\2\\admpetshop.sql",
+      "PackagePath": "staticwebassets\\uploads\\2\\admpetshop.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\3\\Classic_Models.sql",
+      "PackagePath": "staticwebassets\\uploads\\3\\Classic_Models.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\3\\Entregue.sql",
+      "PackagePath": "staticwebassets\\uploads\\3\\Entregue.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\3\\formula1 modelo fisico.sql",
+      "PackagePath": "staticwebassets\\uploads\\3\\formula1 modelo fisico.sql"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\5\\Este documento fala sobre as bombas.txt",
+      "PackagePath": "staticwebassets\\uploads\\5\\Este documento fala sobre as bombas.txt"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\5\\Redacao Rafael.docx",
+      "PackagePath": "staticwebassets\\uploads\\5\\Redacao Rafael.docx"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\5\\correção redação escola.pptx",
+      "PackagePath": "staticwebassets\\uploads\\5\\correção redação escola.pptx"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\6\\2025_DECLARAÇÃO DE VÍNCULOS E OUTRAS-2.pdf",
+      "PackagePath": "staticwebassets\\uploads\\6\\2025_DECLARAÇÃO DE VÍNCULOS E OUTRAS-2.pdf"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\6\\Este documento fala sobre as bombas.txt",
+      "PackagePath": "staticwebassets\\uploads\\6\\Este documento fala sobre as bombas.txt"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\7\\2025_DECLARAÇÃO DE VÍNCULOS E OUTRAS-2.pdf",
+      "PackagePath": "staticwebassets\\uploads\\7\\2025_DECLARAÇÃO DE VÍNCULOS E OUTRAS-2.pdf"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\7\\Este documento fala sobre as bombas.txt",
+      "PackagePath": "staticwebassets\\uploads\\7\\Este documento fala sobre as bombas.txt"
+    },
+    {
+      "Id": "C:\\Pitch\\DataVault\\wwwroot\\uploads\\8\\Este documento fala sobre as bombas.txt",
+      "PackagePath": "staticwebassets\\uploads\\8\\Este documento fala sobre as bombas.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DataVault.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DataVault.props",
+      "PackagePath": "build\\DataVault.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DataVault.props",
+      "PackagePath": "buildMultiTargeting\\DataVault.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DataVault.props",
+      "PackagePath": "buildTransitive\\DataVault.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
