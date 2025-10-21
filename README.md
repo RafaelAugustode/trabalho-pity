@@ -103,5 +103,5 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
 16. Os arquivos movidos para a lixeira estão exibidos[]
 17. Sugestão de Tags ou Palavras-Chave[✔]
 18. Detecção de Conteúdo Sensível ou Confidencial[✔]
-19. Medição de Espaço Utilizado (em KB/MB)[]
+19. Quando clicar em pastas exibir todas as pastas do usuario[]
 20. Resumo de Conteúdo dos arquivos enviados[✔]
