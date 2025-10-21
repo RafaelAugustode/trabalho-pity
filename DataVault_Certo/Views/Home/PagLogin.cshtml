@@ -1,0 +1,76 @@
+﻿@model DataVault.Models.Usuario
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - DataVault</title>
+    <link rel="stylesheet" href="~/css/cadastro.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<body>
+    <div class="fundo">
+
+        <div class="alinharbtn">
+            <button class="btnhome> <a asp-controller=" Home" asp-action="Index">Home</a></button>
+            <button class="btnlogin> <a asp-controller="Home" asp-action="PagLogin" class="btnlogin a">Login</a></button>
+        </div>
+
+        
+        <div class="glass">
+            <form asp-controller="Usuario" asp-action="Login" method="post">
+                <div class="titles">
+                    <h1>Minha Conta</h1>
+                    <h3>Login</h3>
+                </div>
+
+                <div class="formatacao-form">
+                    <label asp-for="Email">E-mail:</label>
+                    <input asp-for="Email" class="form-control" required />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+
+                    <label asp-for="Senha">Senha:</label>
+                    <input asp-for="Senha" type="password" class="form-control" required />
+                    <span asp-validation-for="Senha" class="text-danger"></span>
+                </div>
+
+                @if (TempData["Erro"] != null)
+                {
+                    <div class="alert alert-danger">
+                        @TempData["Erro"]
+                    </div>
+                }
+
+                <div class="alinharfinal">
+                    <button type="submit" class="btnenviar">Entrar</button>
+                    <span>Não tem uma conta?</span>
+                    <a asp-controller="Home" asp-action="PagCadastro">Cadastre-se</a>
+                    <a asp-controller="Home" asp-action="EsqueciSenha" class="esqueci">Esqueci minha senha</a>
+                </div>
+
+            </form>
+        </div>
+
+     
+        <img src="~/imagens/logo-removebg-preview.png" alt="Logo" class="logo" />
+
+        
+        <div class="ladoimg">
+            <img src="~/imagens/imagem.cadasttro.png" alt="Imagem Login" class="imagem-site" />
+            <div class="formatacaop">
+                <p>Bem-vindo de volta!</p>
+                <p>Entre no DataVault</p>
+                <p>e acesse seus dados.</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/js/site.js"></script>
+    <partial name="_ValidationScriptsPartial" />
+</body>
+</html>
