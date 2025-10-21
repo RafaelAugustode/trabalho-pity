@@ -14,7 +14,7 @@ O projeto datavault é um gerenciador de arquivos com uma IA de fundo para cria�
 - Baixe o nosso banco de dados SQL(BDtrabai.sql);
   <!-- Perdão pelo nome do arquivo --!>
 - MySql Workbench
-- Baixar a pasta DataVault
+- Baixar a pasta DataVault_Certo
 - ## Funcionalidade com IA Local
 Este projeto inclui uma IA que organiza arquivos automaticamente com base no conteúdo.
 ### Para testar a IA:
