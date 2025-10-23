@@ -89,7 +89,7 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
 2. O usuário deve poder redefinir a senha.[✔]
 3. O usuário deve poder personalizar as configurações da interface.[✔]
 4. O sistema deve ter um sistema de busca eficiente de arquivos por meio de seus nomes e eles serão ordenados pelo tipo de arquivos que a pessoa escolher como preferencial.[✔]
-5. Uma mesma empresa ter mais de uma perfil no aplicativo.[✔]
+5. O sistema deve ter um login bem sucedido.[✔]
 6. Pesquisas por palavra chave de arquivos.[✔]
 7. Ter avaliações mensais para feedbacks.[✔]
 8. Ter menus intuitivos para o usuário poder manusear melhor o site[✔].
