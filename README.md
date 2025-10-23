@@ -83,6 +83,7 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
 ### 🔹 Strategy
 -   **Uso**: Leitura de conteúdo de arquivos.\
 -   **Justificativa**: Ajuda na leitura de arquivos da IA e também separa a leitura de cada tipo de arquivo.
+### Os diagramas UML estão na pasta Diagrama de Classes, no arquivo Padroes_Partten
   
 ### - Vinte funcionalidades:
 - 1. O sistema deve permitir o cadastro de usuários.[✔]
