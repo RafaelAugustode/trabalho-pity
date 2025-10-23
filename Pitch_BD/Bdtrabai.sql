@@ -35,6 +35,11 @@ id_usuario int not null,
 foreign key (id_usuario) references usuario(id)
 );
 
+create table __efmigrationshistory(
+  MigrationId varchar(150) primary key,
+  ProductVersion varchar(32)
+);
+
 create table files(
 id int  not null auto_increment primary key,
 arquivo_file bool not null ,
@@ -46,5 +51,10 @@ tipo_arquivo varchar(45) not null,
 tamanho_arquivo bigint not null,
 nome_pasta varchar(45) not null,
 id_usuario int not null,
+is_pasta bool null,
+pasta_pai_id int null,
+PastaPaiId int null,
+tags TEXT null,
+conteudo_sensivel bool not null,
 foreign key (id_usuario) references usuario(id)
 );
