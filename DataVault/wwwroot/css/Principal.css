@@ -1,0 +1,448 @@
+﻿* {
+    margin: 0;
+}
+.tema-escuro {
+    background-color: #09002A;
+}
+    .tema-escuro #nome_pasta {
+        color: #70B8F2;
+    }
+    .tema-escuro #diminui_arma {
+        color:blue; 
+    }
+    .tema-escuro #memoria{
+        color:blue;
+    }
+    .tema-escuro header {
+        background-color: #09002A;
+    }
+    .tema-escuro main {
+        background-color: #211B38;
+    }
+    .tema-escuro #pesquisa {
+        background-color: #211B38;
+    }
+    .tema-escuro #carregar {
+        background-color: #3346F7;
+    }
+    .tema-escuro #input_procurar {
+        background-color: #211B38;
+    }
+body {
+    background-color: #C8ECFF;
+    overflow: hidden;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    margin-left: 5%;
+    margin-top: 2%;
+    background-color: #C8ECFF;
+}
+
+#linha1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    display: flex;
+    flex-direction: row;
+}
+
+#linha2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#lupinha {
+    height: 10vh;
+    
+}
+
+#Logo {
+    height: 10vh;
+}
+
+#Empresa {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#pesquisa {
+    position: relative;
+    height: 5vh;
+    width: 40vw;
+    border-radius: 20px;
+    border: solid black;
+    margin-top: 1%;
+    margin-left: 5%;
+    background-color: white;
+}
+
+    #pesquisa form {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 0px;
+    }
+
+main {
+    background-color: white;
+    height: 73vh;
+    width: 67vw;
+    margin-left: 10%;
+    margin-top: 2%;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+#lista_tipos {
+    margin-top: 1%;
+    margin-left: 8%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 40px;
+    list-style: none;
+}
+
+    #lista_tipos li {
+        color: rgb(60, 60, 61);
+        font-size: 1.1em;
+    }
+
+#nome_cliente {
+    color: blue;
+    margin-top: 2%;
+    font-size: 1.3em;
+}
+
+#separar_dois {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#terceiro {
+    width: 10px;
+}
+
+input[type="file"] {
+    opacity: 0;
+    color: #C8ECFF;
+    height: 10vh;
+    width: 15vw;
+    cursor: pointer;
+}
+
+#carregar {
+    position: relative;
+    background-color: blue;
+    width: 15vw;
+    height: 10vh;
+    border-radius: 30px;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+#texto_carregar {
+    position: absolute;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 12%;
+    margin-top: 10%;
+    color: #C8ECFF;
+}
+
+#icone_baixar {
+    font-size: 1.5rem;
+    color: #C8ECFF;
+}
+
+#br_direita {
+    height: 4vh;
+    margin-bottom: 70%;
+    font-size: 1.4em;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    width: 10vw;
+}
+
+#ul_funcoes {
+    list-style: none;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    row-gap: 5px;
+}
+
+#deutrabalho {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 1%;
+    gap: 60px;
+}
+
+#pastas {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 5px;
+
+}
+#organizar_a{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#favoritos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+}
+
+#Compartilhados {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
+
+#Lixeira {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+}
+
+#ul_funcoes li i {
+    font-size: 1.5rem;
+}
+
+#ul_funcoes li div {
+    font-size: 1.5em;
+}
+#ul_funcoes li span {
+    font-size: 1.5em;
+}
+
+
+#lista_funcoes {
+    margin-top: 15%;
+}
+
+#nomeEmpresa {
+    margin-top: 5%;
+    font-size: 1.5em;
+    color: blue;
+    margin-left: 25%;
+}
+
+#lupinha {
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: 1.2rem;
+}
+
+#input_procurar {
+    position: absolute;
+    width: 34.7vw;
+    border-radius: 10px;
+    height: 100%;
+    margin-right: 20%;
+    border: none;
+}
+
+#premium i {
+    color: #1500ff;
+    font-size: 1.4rem;
+}
+
+#configurações i {
+    color: #1500ff;
+    font-size: 1.4rem;
+}
+
+#perfil i {
+    color: #1500ff;
+    font-size: 1.4rem;
+}
+
+
+#tres_icones {
+    margin-top: 1%;
+    margin-left: 3%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    column-gap: 5vw;
+}
+
+nav i {
+    color: #1500ff;
+}
+
+#dois_arma {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#diminui_arma {
+    font-size: 1.1em;
+}
+
+#memoria {
+    font-size: 1.0em;
+}
+
+@media (max-width: 768px) {
+
+    main {
+        width: 100%;
+        grid-column: 3/5;
+    }
+
+    #separar_dois {
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+    }
+
+    #lista_funcoes {
+        grid-column: 1/3;
+    }
+
+    #ul_funcoes {
+        grid-column: 1 /3;
+    }
+
+    #pular {
+        position: absolute;
+        width: 35%;
+        top: 24%;
+    }
+
+    nav {
+        grid-column: 1/3;
+    }
+
+    #deutrabalho, #pastas, #favoritos, #Compartilhados, #Lixeira {
+        display: flex;
+        flex-direction: row;
+        gap: 15%
+    }
+
+    #Logo {
+        width: 100%;
+        height: auto;
+    }
+
+    #nomeEmpresa h3 {
+        display: none;
+    }
+
+    #tres_icones i {
+        width: 20px;
+    }
+
+    #texto_carregar {
+        grid-column: 1/ 3;
+        color: #C8ECFF;
+        font-size: 2rem;
+        height: 8vh;
+        align-content: center;
+        justify-self: center;
+    }
+
+    #icone_baixar {
+        height: 4vh;
+        width: 8vw;
+        fill: #C8ECFF;
+        justify-self: center;
+        align-self: center;
+        grid-column: 1;
+    }
+}
+
+@media (max-width: 425px) {
+    #pular {
+        position: absolute;
+        width: 35%;
+        top: 22.5%;
+    }
+
+    #texto_carregar {
+        grid-column: 1/ 3;
+        color: #C8ECFF;
+        font-size: 1.5rem;
+        height: 8vh;
+        align-content: center;
+        justify-self: center;
+    }
+
+    #icone_baixar {
+        height: 4vh;
+        width: 6vw;
+        fill: #C8ECFF;
+        justify-self: center;
+        align-self: center;
+        grid-column: 1;
+    }
+
+    #carregar {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows: 1;
+        background-color: blue;
+        height: 8vh;
+        border-radius: 30px;
+        width: 70%;
+        justify-self: center;
+        align-content: center;
+        margin-top: 9%;
+    }
+}
+
+@media (max-width: 320px) {
+    #texto_carregar {
+        grid-column: 1/ 3;
+        color: #C8ECFF;
+        font-size: 1.2rem;
+        height: 8vh;
+        align-content: center;
+        justify-self: center;
+    }
+
+    #icone_baixar {
+        display: none;
+    }
+
+    #ul_funcoes i {
+        display: none;
+    }
+
+    #ul_funcoes li {
+        font-size: 0.8rem;
+    }
+
+    #ul_funcoes {
+        margin: 0;
+    }
+
+    #pesquisa {
+        display: none;
+    }
+
+    #tres_icones {
+        grid-column: 3/5;
+    }
+
+    #Logo {
+        width: 70px;
+    }
+
+    #ul_funcoes {
+        margin-left: -15%;
+        grid-column: 1/3;
+    }
+
+    nav {
+        grid-column: 1/3;
+    }
+
+    #pular {
+        position: absolute;
+        width: 35%;
+        top: 21%;
+    }
+}
