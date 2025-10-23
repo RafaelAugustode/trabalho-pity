@@ -70,7 +70,7 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
     ├── README.md                # Arquivo de descrição do projeto
  
 ## Design Patterns Aplicados na Camada de Domínio
-### 🔹 Singleton(Ele é o arquivo )
+### 🔹 Singleton(Ele é o arquivo ConnectionStringProvider ele está dentro da pasta Data)
 -   **Uso**: Conexão única ao banco de dados.\
 -   **Justificativa**: Evita múltiplas instâncias e consumo
     desnecessário de recursos.
