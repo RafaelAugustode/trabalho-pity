@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Obrigado!";
+}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="~/css/esqueci.css?v=@DateTime.Now.Ticks" asp-append-version="true">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<div class="text-center">
+    <h2>Obrigado pelo seu feedback!</h2>
+    <p>Valorizamos sua opinião.</p>
+    <a href="@Url.Action("Configuracoes", "Home")">Voltar para a página inicial</a>
+</div>
