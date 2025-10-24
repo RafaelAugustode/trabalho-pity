@@ -452,6 +452,14 @@ namespace DataVault.Controllers
             {
                 ".pdf" => new LeitorPdf(),
                 ".txt" => new LeitorTxtStrategy(),
+                ".docx" => new LeitorDocxStrategy(),
+                ".pptx" => new LeitorPptxStrategy(),
+                ".xml" => new LeitorXmlStrategy(),
+                ".sql" => new LeitorSqlStrategy(),
+                ".jpg" => new LeitorImagemStrategy(),
+                ".jpeg" => new LeitorImagemStrategy(),
+                ".png" => new LeitorImagemStrategy(),
+                ".word" => new LeitorDocxStrategy(), // trata .word como .docx
                 _ => null
             };
 
@@ -582,4 +590,5 @@ namespace DataVault.Controllers
        
        
     }
+
 }
