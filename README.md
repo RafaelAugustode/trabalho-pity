@@ -93,7 +93,7 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
 5. O sistema deve ter um login bem sucedido.[✔]
 6. Pesquisas por palavra chave de arquivos.[✔]
 7. Ter avaliações mensais para feedbacks.[✔]
-8. Ter menus intuitivos para o usuário poder manusear melhor o site[✔].
+8. Mostrar quantidade de espaço utilizado pelo usuário[✔].
 9. O sistema deve oferecer suporte a múltiplos idiomas.[✔]
 10. Ter uma responsividade fluida em aparelhos diversos[✔]
 11. A IA consegue criar pastas[✔]
