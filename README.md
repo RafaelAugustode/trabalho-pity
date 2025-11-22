@@ -86,7 +86,7 @@ Rode o programa no Visual Studio(roxo) clicando na setinha verde, com o http sel
 ### Os diagramas UML estão na pasta Diagrama de Classes, no arquivo Padroes_Partten
   
 ### - Vinte funcionalidades:
-- 1. O sistema deve permitir o cadastro de usuários.[✔]
+1. O sistema deve permitir o cadastro de usuários.[✔]
 2. O usuário deve poder redefinir a senha.[✔]
 3. O usuário deve poder personalizar as configurações da interface.[✔]
 4. O sistema deve ter um sistema de busca eficiente de arquivos por meio de seus nomes e eles serão ordenados pelo tipo de arquivos que a pessoa escolher como preferencial.[✔]
